@@ -1,12 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-<style>
-.icon {
-    font-size: 50px;
-    margin: 0.5rem;
-}
-</style>
-
 # Hi there 👋
 
 - 🔭 I’m currently working on Xepelin
@@ -27,34 +18,34 @@
 <h3>Languages and Tools:</h3>
 <hr>
 
-<i class="devicon-git-plain colored icon"></i>
-<i class="devicon-javascript-plain colored icon"></i>
-<i class="devicon-typescript-plain colored icon"></i>
-<i class="devicon-python-plain-wordmark colored icon"></i>
-<i class="devicon-nodejs-plain icon"></i>
-<i class="devicon-express-original icon"></i>
-<i class="devicon-jest-plain colored icon"></i>
-<i class="devicon-mongodb-plain-wordmark colored icon"></i>
-<i class="devicon-firebase-plain-wordmark colored icon"></i>
-<i class="devicon-mysql-plain-wordmark colored icon"></i>
-<i class="devicon-sqlite-plain-wordmark colored icon"></i>
-<i class="devicon-postgresql-plain-wordmark colored icon"></i>
-<i class="devicon-socketio-original-wordmark icon"></i>
-<i class="devicon-html5-plain colored icon"></i>
-<i class="devicon-handlebars-plain-wordmark icon"></i>
-<i class="devicon-markdown-original icon"></i>
-<i class="devicon-sass-original colored icon"></i>
-<i class="devicon-bootstrap-plain colored icon"></i>
-<i class="devicon-tailwindcss-original-wordmark colored icon"></i>
-<i class="devicon-react-original colored icon"></i>
-<i class="devicon-nextjs-original-wordmark icon"></i>
-<i class="devicon-redux-original colored icon"></i>
-<i class="devicon-vuejs-plain colored icon"></i>
-<i class="devicon-vuetify-line colored icon"></i>
-<i class="devicon-angularjs-plain colored icon"></i>
-<i class="devicon-linux-plain icon"></i>
-<i class="devicon-nginx-original colored icon"></i>
-<i class="devicon-jenkins-plain colored icon"></i>
-<i class="devicon-jira-plain-wordmark colored icon"></i>
-<i class="devicon-confluence-original-wordmark colored icon"></i>
-<i class="devicon-slack-plain-wordmark icon"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" width="50" />
