@@ -1,8 +1,8 @@
 # Hi there 👋
 
 - 🔭 I’m currently working on Stefanini
-- 🌱 I’m currently learning NextJS
-- 💬 Ask me about Express, Vue, React
+- 🌱 I’m currently learning Vectorial Databases, Langchain
+- 💬 Ask me about Javascript, Typescript, Python
 - 📫 How to reach me: ironcat.tech@gmail.com
 
 <br>
